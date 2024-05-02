@@ -1,4 +1,4 @@
-esearch & Project approval (Part 2)
+research & Project approval (Part 2)
 Concepts
 For this project, we expect you to look at these concepts:
 
@@ -144,4 +144,4 @@ Include a mockup of each view that will need to be created for your MVP
 
 Ready for a manual review
 
-Copyright © 223 2024 ALX, All rights reserved.
+Copyright © 2023 2024 ALX, All rights reserved.
